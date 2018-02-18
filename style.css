@@ -1,18 +1,13 @@
 .fade_in_welcome {
   margin-left: 100px;
   font-family: 'Questrial', sans-serif;
-  font-size: 70px;
+  font-size: 50%;
   overflow-wrap: normal;
    -webkit-animation: fadein 7s; /* Safari, Chrome and Opera > 12.1 */
       -moz-animation: fadein 7s; /* Firefox < 16 */
        -ms-animation: fadein 7s; /* Internet Explorer */
         -o-animation: fadein 7s; /* Opera < 12.1 */
           -animation: fadein 7s;
-}
-
-@media (max-width: 700px) {
-  margin-left: 50px;
-  font-size: 40px;
 }
 
 @keyframes fadein {
