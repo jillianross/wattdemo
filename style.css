@@ -9,6 +9,11 @@
           -animation: fadein 7s;
 }
 
+@media (max-width: 700px) {
+  margin-left: 50px;
+  font-size: 40px;
+}
+
 @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
