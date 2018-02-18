@@ -1,7 +1,7 @@
 .fade_in_welcome {
-  margin-left: 200px;
+  margin-left: 100px;
   font-family: 'Questrial', sans-serif;
-  font-size: 80px;
+  font-size: 70px;
    -webkit-animation: fadein 7s; /* Safari, Chrome and Opera > 12.1 */
       -moz-animation: fadein 7s; /* Firefox < 16 */
        -ms-animation: fadein 7s; /* Internet Explorer */
