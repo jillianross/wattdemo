@@ -1,5 +1,5 @@
 .fade_in_welcome {
-  text-align: center;
+  margin-left: 200px;
   font-family: 'Questrial', sans-serif;
   font-size: 100px;
    -webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
