@@ -2,6 +2,7 @@
   margin-left: 100px;
   font-family: 'Questrial', sans-serif;
   font-size: 70px;
+  overflow-wrap: normal;
    -webkit-animation: fadein 7s; /* Safari, Chrome and Opera > 12.1 */
       -moz-animation: fadein 7s; /* Firefox < 16 */
        -ms-animation: fadein 7s; /* Internet Explorer */
